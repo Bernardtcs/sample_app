@@ -39,3 +39,7 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+
+Note :
+
+Miss out chapter 9 for advanced login

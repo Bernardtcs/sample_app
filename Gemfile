@@ -6,6 +6,11 @@ gem 'bootstrap-sass', '3.3.7'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 gem 'jquery-rails'
 
+gem 'faker', '1.7.3'
+#Use faker for seeding database
+gem 'will_paginate',           '3.1.6'
+gem 'bootstrap-will_paginate', '1.0.0'
+# Pagination method using bootstrap configuration
 ruby '2.5.1'
 # Bcrypt for password encryption
 gem 'bcrypt', '3.1.12'

@@ -10,6 +10,7 @@ Rails.application.routes.draw do
   delete '/logout',  to: 'sessions#destroy'
   # get 'help_path', to: 'help_url'
   resources :users
+  resources :microposts, only: [:create, :destroy]
   
   
   

@@ -42,4 +42,5 @@ For more information, see the
 
 Note :
 
-Miss out chapter 9 for advanced login
+-miss out chapter 9 for advanced login
+-have not proceed through the aws service, as 1 dollar authorization is not yet done.

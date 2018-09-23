@@ -43,4 +43,6 @@ For more information, see the
 Note :
 
 -miss out chapter 9 for advanced login
+-miss out chapter 11 and 12
 -have not proceed through the aws service, as 1 dollar authorization is not yet done.
+-from chapter 14 , I stop testing.
